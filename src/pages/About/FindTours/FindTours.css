@@ -1,0 +1,13 @@
+.btn{
+    border-radius: 0!important;
+    padding:1.375rem 2.95rem !important;
+    transition: .5s;
+   
+  
+}
+
+
+.image{
+    position: absolute;
+    bottom: -10px;
+}

@@ -1,0 +1,19 @@
+.landing-page{
+    background-image: url(../../../assets/inner-banner-bg.094fd172.png);
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+  
+}
+.img{
+    
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    width: 100%;
+    /* height: calc(100vh+3px); */
+
+}
+
+ 

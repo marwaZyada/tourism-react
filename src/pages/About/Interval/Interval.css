@@ -1,0 +1,11 @@
+.interval{
+    box-shadow: 4px 3px 40px rgb(16 33 34 / 6%);  
+}
+.interval .icon svg{
+    fill: #90b956;
+    width: 100%;
+    transition: .5s;
+}
+.interval .icon svg:hover{
+    transform: scale(1.2);
+}
