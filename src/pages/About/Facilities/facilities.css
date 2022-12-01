@@ -1,0 +1,27 @@
+.facilities .content {
+  box-shadow: 4px 3px 40px rgb(16 33 34 / 6%);
+ 
+  position: relative;
+
+}
+.facilities .scale{
+    transform: scale(0);
+    transition: 0.5s;
+  
+}
+.facilities .content:hover .scale {
+
+position: absolute;
+transform: scale(1);
+left: 0;
+top: 0;
+right: 0;
+bottom: 0;
+z-index: -1;
+  background-color: rgba(144, 185, 86);
+  
+}
+.facilities .content:hover .info{
+    color: white;
+}
+
