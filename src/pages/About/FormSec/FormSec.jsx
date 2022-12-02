@@ -8,7 +8,7 @@ const FormSec = () => {
   return (
     <div className="container py-5">
       <div className="row   form-content">
-        <div className="col-lg-6 col-sm-12 bg-dark text-white h-100 d-flex justify-content-center flex-column mb-3">
+        <div className="col-lg-6 col-sm-12 bg-dark text-white h-100 d-flex justify-content-center flex-column mb-3 py-4">
           <div className="form-content-info  ">
             <div className="color-green">
               <AiFillStar />
@@ -30,7 +30,7 @@ const FormSec = () => {
             </div>
           </div>
         </div>
-        <div className="col-lg-6 col-sm-12 form-content-image d-flex justify-content-center align-items-center flex-column mb-3">
+        <div className="col-lg-6 col-sm-12 form-content-image d-flex justify-content-center align-items-center flex-column mb-3 py-4">
           <div className=" py-5 w-75 text-white text-center form-content-gradiant">
             <h3>Join Newsletter</h3>
             <p className="fs-5">Etiam rhoncus. Maecenas temp us, tellus eget condimentum rho</p>
