@@ -11,3 +11,6 @@ ul {
 .text-main {
   color:var(--mainColorGreen)
 }
+.color-green{
+  color: rgba(144,185,86);
+}

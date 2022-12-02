@@ -13,7 +13,7 @@ const Meeting = () => {
   return (
     <div className="meeting py-5 text-center">
       <div className="">
-        <p className="text-success fs-5">Tour Guide's</p>
+        <p className="color-green fs-5">Tour Guide's</p>
         <h3 className="fw-bold fs-1">Meet Our Excellent Guide’s</h3>
         <img src={img1} alt="" />
       </div>

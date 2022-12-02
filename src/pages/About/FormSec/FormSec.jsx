@@ -10,7 +10,7 @@ const FormSec = () => {
       <div className="row   form-content">
         <div className="col-lg-6 col-sm-12 bg-dark text-white h-100 d-flex justify-content-center flex-column mb-3">
           <div className="form-content-info  ">
-            <div className="text-success">
+            <div className="color-green">
               <AiFillStar />
               <AiFillStar />
               <AiFillStar />

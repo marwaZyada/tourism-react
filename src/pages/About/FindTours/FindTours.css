@@ -1,13 +1,18 @@
-.btn{
+.find-tour .btn{
     border-radius: 0!important;
     padding:1.375rem 2.95rem !important;
     transition: .5s;
-   
+   border-color: rgba(144,185,86)!important;
+   color: rgba(144,185,86)!important;
   
+}
+.find-tour .btn:hover{
+    background-color: rgba(144,185,86)!important;
+    color: white!important;
 }
 
 
-.image{
+.find-tour .image{
     position: absolute;
     bottom: -10px;
 }
